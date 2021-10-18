@@ -2,6 +2,6 @@
   <head>
   </head>
   <body>
-    <h1>Das ist die erste Seite einer epischen Website!<h1>
+    <?p echo "Das ist die erste Seite einer epischen Website!" ?>
   </body>
 <html>
